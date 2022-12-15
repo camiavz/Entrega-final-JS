@@ -1,0 +1,8 @@
+[
+    { "id": 1, "pais": "MADRID", "precio": 250000, "disponibilidad": true, "fecha": "Ida: 12/05/2022  Regreso: 20/05/2022", "img": "https://a.cdn-hotels.com/gdcs/production133/d1207/7ad2d7f0-68ce-11e8-8a0f-0242ac11000c.jpg" },
+    { "id": 2, "pais": "LOS ANGELES", "disponibilidad": true, "fecha": "Ida: 10/03/2022 Regreso: 15/04/2022", "precio": 350000, "img":"https://cdn2.civitatis.com/estados-unidos/los-angeles/galeria/hollywood-boulevard-2.jpg" },
+    { "id": 3, "pais": "NEW YORK", "disponibilidad": true, "fecha": "Ida: 17/09/2022 Regreso: 20/10/2022", "precio": 310000, "img":"https://a.cdn-hotels.com/gdcs/production196/d1429/5c2581f0-c31d-11e8-87bb-0242ac11000d.jpg?impolicy=fcrop&w=800&h=533&q=medium" },
+    { "id": 4, "pais": "TAILANDIA", "disponibilidad": true, "fecha": "Ida: 05/10/2022 Regreso: 30/05/2022", "precio": 410000, "img":"https://www.cronista.com/files/image/297/297593/5ffe0c82c6d33.jpg" },
+    { "id": 5, "pais": "AUSTRALIA", "disponibilidad": false, "fecha": "Fechas no disponibles", "precio": 470000, "img":"https://cdn.travelsafe-abroad.com/wp-content/uploads/thumb-1920-716104.jpg" },
+    { "id": 6, "pais": "TOKIO", "disponibilidad": true, "fecha": "Ida: 23/08/2022 Regreso: 09/09/2022", "precio": 510000, "img":"https://www.gotokyo.org/es/plan/tokyo-outline/images/main.jpg" }
+]
